@@ -5,8 +5,9 @@ const port = 3000
 app.use(express.json())
 
 let std = [
-    { id: 1, name: 'Pakin' },
-    { id: 2, name: 'Nattawat' },
+    { id: 1, name: 'Pattamaraj' },
+    { id: 2, name: 'Panuwat' },
+    { id: 3, name: 'jirapat' },
 ]
 
 // get method
